@@ -2,8 +2,8 @@ nl:
   js:
     guest_gate:
       modal:
-        title: "Why do I need to sign in?"
-        sign_up_email: "Sign Up with Email"
-        sign_up: "Sign Up"
-        log_in: "I already have an account"
-        or: "or"
+        title: "Waarom moet ik me aanmelden?"
+        sign_up_email: "Aanmelden met e-mail"
+        sign_up: "Inschrijven"
+        log_in: "Ik heb al een account"
+        or: "of"
