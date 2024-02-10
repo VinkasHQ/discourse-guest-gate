@@ -1,0 +1,9 @@
+nl:
+  js:
+    guest_gate:
+      modal:
+        title: "Waarom moet ik me aanmelden?"
+        sign_up_email: "Aanmelden met e-mail"
+        sign_up: "Inschrijven"
+        log_in: "Ik heb al een account"
+        or: "of"

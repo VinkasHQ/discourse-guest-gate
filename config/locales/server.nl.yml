@@ -1,0 +1,16 @@
+nl:
+  site_settings:
+    guest_gate_enabled: "Schakel 'Guest Gate' plugin in"
+    max_guest_topic_views: "Hoeveel topics een gast mag bekijken voordat de gate getoond word. Na de eerste keer wordt het tonen tussen 0 en dit getal willekeurig gekozen."
+    login_text: "Aangepaste 'Guest Gate' inschakelen?"
+    signup: "Aangepaste 'Guest Gate' inschakelen?"
+    x_button_disabled: "Uitschakelen x-knop?"
+    custom_gate_enabled: "Aangepaste 'Guest Gate' inschakelen?"
+    custom_gate_image_url: "Afbeeldings-URL voor sitelogo."
+    custom_gate_big_text: "Grote aangepaste tekst."
+    custom_gate_little_text: "Kleine aangepaste tekst."
+    custom_gate_big_text_color: "Grote aangepaste tekstkleur."
+    custom_gate_little_text_color: "Kleine aangepaste tekstkleur."
+    custom_gate_background_color: "Aangepaste achtergrondkleur."
+    custom_gate_link_color: "Aangepaste linkkleur."
+    gate_show_only_once: "Toon de 'Guest Gate' slechts eenmaal. Teller wordt gereset bij een hard refresh."
